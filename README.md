@@ -1,1 +1,1 @@
-# Workshop_Irfan
+# Deep Learning - Image Classification
